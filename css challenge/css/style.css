@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Pacifico");
+body {
+  background-color: grey; }
+  body p {
+    color: white;
+    text-align: center;
+    margin: 100px 100px 100px 100px; }
+  body .Paragraph1 {
+    font-family: "Pacifico", cursive, monospace, fantasy; }
+  body .Paragraph2 {
+    font-family: "Gloria Hallelujah", cursive, sans-serif, serif; }
+
+/*# sourceMappingURL=style.css.map */

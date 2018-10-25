@@ -11,6 +11,18 @@
 - Added a text color to the h1 heading.
 - Updated README.
 
+## CSS Challenge:
+- Open challenge in text editor.
+- Added a scss folder.
+- Added a file into the scss folder called style.scss.
+- Opened terminal.
+- Watched all changes made by running the command sass --watch scss:css
+- Added a background color.
+- Imported google fonts.
+- Added google fonts.
+- Added margins
+- Centered paragraphs.
+
 
 ## Technologies used;
 - HTML

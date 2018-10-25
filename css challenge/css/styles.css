@@ -1,0 +1,11 @@
+.Paragraph1{
+font-family: 'Pacifico', cursive,monospace,fantasy;
+text-align: right;
+padding: inherit;
+}
+
+.Paragraph2{
+ font-family: 'Gloria Hallelujah', cursive,sans-serif,serif;
+ text-align: left;
+ padding: inherit;
+}

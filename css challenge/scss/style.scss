@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Pacifico" );
+
+// variables
+
+$primary-color: grey;
+$text-color: white;
+$text-font:'Pacifico', cursive,monospace,fantasy ;
+$text-font1: 'Gloria Hallelujah', cursive,sans-serif,serif;
+
+
+body{
+    background-color: $primary-color;
+
+    p {
+        color: $text-color;
+        text-align: center;
+        margin: 100px 100px 100px 100px;
+    }
+    .Paragraph1{
+        font-family: $text-font;
+
+    }
+    .Paragraph2{
+        font-family: $text-font1;
+    }
+}
